@@ -43,7 +43,7 @@ front-end:
     level: 3
   - name: jQuery
     level: 3
-  - name: Angular
+  - name: Angular 2
     level: 3
   - name: Bootstrap
     level: 3
@@ -56,7 +56,7 @@ front-end:
   - name: Gulp
     level: 3
   - name: Bower
-    level: 3
+    level: 1
 
 back-end:
   - name: PHP
