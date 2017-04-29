@@ -38,12 +38,18 @@ front-end:
   - name: HTML 5
     level: 4
   - name: CSS 3
-    level: 4
+    level: 2
   - name: JavaScript
     level: 3
   - name: jQuery
     level: 3
   - name: Angular 2
+    level: 3
+  - name: Angular 4
+    level: 3
+  - name: Angular-cli
+    level: 3
+  - name: Primefaces
     level: 3
   - name: Bootstrap
     level: 3
@@ -69,12 +75,20 @@ back-end:
     level: 1
   - name: Java
     level: 4
+  - name: JPA
+    level: 3
+  - name: EJB
+    level: 3
+  - name: Spring
+    level: 2
   - name: SQL
     level: 4
 
 mobile:
   - name: Android
     level: 4
+  - name: iOS
+    level: 1
   - name: Ionic
     level: 1
 
